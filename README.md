@@ -1,3 +1,3 @@
 # goit-js-hw-12
 
-JavaScript 3.0: Homework-12
+TypeScript 2.1: Homework-01
